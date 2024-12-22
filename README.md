@@ -41,4 +41,5 @@ I just take a step and went to apply to one of the best schools with the facilit
 
 I taught the student well. They liked me as i was the youngest teacher in the school. I treated them like my younger brothers and sisters.
 
-Also, I had the opportunity of always charging my laptop anytime
+Also, I had the opportunity of always charging my laptop anytime. I so loved coding to the extent that i would leave school by 7PM everyday even though school  activities ends by 3:30. I would code till around 7pm and go home only to sleep and eat. This became a normal habit for me.
+
