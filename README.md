@@ -46,3 +46,10 @@ Also, I had the opportunity of always charging my laptop anytime. I so loved cod
 Around April I had to scrape important information on linkedIn of which i wrote an automation to be able to navigate pages and scrape the information. It was very interesting. I solved very complex problems and I just felt like i won't create website again and just stay on automation.
 
 But May 9th, 2024 changed the game as a got a call from a friend of mine asking if i could help developing a landing page that he protyped on figma. I felt like dude you know I'm more of a backend person but right now that am out of gigs, I could run it. 
+
+He connected me to the honourable that owns the project. I chatted and we discussed price. It was just landing page though more of animated pages. I needed money so i took the gig. I gave him a deadline of 2 weeks and I disappeared. The truth was that i could finish it in four days but i didn't trust NEPA so i just told him 2 weeks. I was chilling on the project and on two days to the deadline of the project i hosted it for them to see it. It was all done just some few corrections and i completed project.
+
+I was still working in this school and really i had a dream of which i felt i needed to sow this money somewhere. It was like i had spent the money so i just took the money and did what gave me fulfillment.
+
+Fast forward to June, we had a mid term in school and i had to go to UI to use light i was all about meeting my financial goal for the first half of the year.
+I really wanted a remote job that pays in USD so it wasn't much something 
