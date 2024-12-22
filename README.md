@@ -51,5 +51,8 @@ He connected me to the honourable that owns the project. I chatted and we discus
 
 I was still working in this school and really i had a dream of which i felt i needed to sow this money somewhere. It was like i had spent the money so i just took the money and did what gave me fulfillment.
 
-Fast forward to June, we had a mid term in school and i had to go to UI to use light i was all about meeting my financial goal for the first half of the year.
+Fast forward to June, we had a mid term in school and i had to go to UI to use as  light usual. i was all about meeting my financial goal for the first half of the year. Trying so hard to get a gig on any of freelance platform. I spent three consecutive days not having my bath or brushing my teeth. I was just busy on my laptop looking and applying to opportunities.
+
+I left on Saturday evening just come home to prepare for church the following day  which also doubles as sallah.
+On the Sunday, I woke up late for church but tried everything possible to be in church and immediately service ended i left church to come home to sleep. I slept and woke up. I camm back to my system to check my Linkedin account. On checking my Linkedin, I saw an opportunity for a gig for the amount to complete my financial for the first half of the year. I applied through my mail and i got a response. We agreed on the next day for an interview. The day came and I did the interview. The guy interviewed got back to me that i was chosen for the gig but would need to meet with the CEO on that Friday so that he could award tha gig to me. He also told me that I should prepare more on cloud computing emphasizing AWS. I was like i had used some services on AWS so it is something not really new.
 I really wanted a remote job that pays in USD so it wasn't much something 
