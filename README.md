@@ -36,3 +36,9 @@ I was writing this code on his system because his system had a longer battery li
 
 
 After, I had completed the project to a milestone after three consecutive days. I decided to go home and rest. I promised to be back in two days time. While i was going home i was feeling the need for extra job that would enable upgrade my ram from 4GB to about 16GB. I thought within myself that i needed to get a Teaching job as that is usually easy to see and also i wanted to get a teaching job where i could be able to charge and use my laptop anytime I have a free period.
+
+I just take a step and went to apply to one of the best schools with the facilities i wanted if the needed a teacher. As at that time, the term was about coming to an end and under normal circumstance they shouldn't need a teacher. I put a list of subject i could teach and to my greatest surprise, I was told to come nect week for an exam. I wrote the exam and was called for an interview. I did well and by the end of February ending, I was told to resume work first week of march. I was very happy as this would give me the opportunity to use part of salary to buy a ram into my system. 
+
+I taught the student well. They liked me as i was the youngest teacher in the school. I treated them like my younger brothers and sisters.
+
+Also, I had the opportunity of always charging my laptop anytime
