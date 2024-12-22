@@ -43,3 +43,6 @@ I taught the student well. They liked me as i was the youngest teacher in the sc
 
 Also, I had the opportunity of always charging my laptop anytime. I so loved coding to the extent that i would leave school by 7PM everyday even though school  activities ends by 3:30. I would code till around 7pm and go home only to sleep and eat. This became a normal habit for me.
 
+Around April I had to scrape important information on linkedIn of which i wrote an automation to be able to navigate pages and scrape the information. It was very interesting. I solved very complex problems and I just felt like i won't create website again and just stay on automation.
+
+But May 9th, 2024 changed the game as a got a call from a friend of mine asking if i could help developing a landing page that he protyped on figma. I felt like dude you know I'm more of a backend person but right now that am out of gigs, I could run it. 
