@@ -21,7 +21,7 @@ My boss became angry and i had to explain that i ran into a problem while fixing
 
 On a fateful Wednesday morning the 31st of January 2024 i was rebelious to my boss instruction and he decided i shouldn't work with him on his project. I was very much sorry but i guess it was too late. It was a bad experience for me becuase I had so much affection for the project. I had to stop anyways.
 
-While i stopped, I was thinking of what next to do and i remeber i needed to write a technical content to be published on DEv.to on Data structures and algorithms. I quickly dived into it. it was interesting and from there i noticed i developed passion for teaxhing because the article i wote on big O notation a topic under Data structures and algorithms was very explanatory.
+While i stopped, I was thinking of what next to do and i remebered that i needed to write some technical articles to be published on DEV.to on Data structures and algorithms. I quickly dived into it. it was interesting. From there i noticed i developed passion for explaining concepts. i wrote on big O notation a topic under Data structures and algorithms was very explanatory.
 
 After a week of Termination I decided to carry my luggages and set home as against my plan. I couldn't believe i can ever come back home to start living with my parents.
 
