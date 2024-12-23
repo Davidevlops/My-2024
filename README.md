@@ -23,9 +23,13 @@ On a fateful Wednesday morning the 31st of January 2024 i was rebelious to my bo
 
 While i stopped, I was thinking of what next to do and i remebered that i needed to write some technical articles to be published on DEV.to on Data structures and algorithms. I quickly dived into it. it was interesting. From there i noticed i developed passion for explaining concepts. i wrote on big O notation a topic under Data structures and algorithms was very explanatory.
 
-After a week of Termination I decided to carry my luggages and set home as against my plan. I couldn't believe i can ever come back home to start living with my parents.
+After a week of i stopped working, I decided to carry my luggages and travel back to Ibadan as against my plan. I couldn't believe i can ever come back home to start living with my parents.
 
-After 2 days of staying at home doing nothing and there was no electricity to work on my laptop i decided i wanted to go and use electricity in University of Ibadan. On getting there, my former roommate who is doing his masters in University of Ibadan told me help him in his project assesment of which he needed to be able to graduate from his tech school. I jumped on it since i had no work doing, i just wanted write code. The amazing thing was that i didn't know time as gone as i was deeply engrossed in the project.
+After 2 days of staying at home doing nothing and there was no electricity to work on my laptop i decided i wanted to go and use electricity in University of Ibadan. On getting there, my former roommate who is doing his masters in University of Ibadan told me help him in his project assesment of which he needed to be able to graduate from his tech school. 
+
+
+
+I jumped on it since i had no work doing, i just wanted write code. The amazing thing was that i didn't know time as gone as i was deeply engrossed in the project.
 
 The time i was called upon to check my time is when i knew time had passed. I haven't finished with the project because the project was big enough it was a blog app. I promised i would continue tommorrow and I was about going home when i discoverd i can't as it was too late. I called One of my boss friend who was also doing his masters at University of Ibadan that could I pass the night at his place and i Obliged i went  there and discoverd i wasn't even around but told his roommate to come pick me. He picked me, I went to room and slept. At around 6AM, I woke and set out to continue my coding at Student Union Building. 
 
