@@ -1,12 +1,12 @@
 # My-2024: The Good, bad and Ugly
 
-Started the year with a lot of goals and aspirations in all aspects of life including spiritual, physical, carrer and financial. All goals and it was a kick off since the 2024 race had started. 
+Started the year with a lot of goals and aspirations in all aspects of life including spiritual, carrer and financial. All goals and it was a kick off since the 2024 race had started. 
 
-I had promised my boss the previous year that i would be working for him to build his software product to completion. on the 3rd day  of january i left Ibadan down to Ile Ife to join my boss in developing the software.
+I had promised my boss  (more like a brother) the previous year that i would be working for him to build his software product to completion. on the 3rd day  of january i left Ibadan down to Ile Ife to join my boss in developing the software.
 
-My plan was complete the software project and dive straight to content creation and focus on creating tech content because i felt that was money making part of tech and the what was the only i could get recognized and probably get  a job. 
+My plan was complete the software project and dive straight to content creation with a focus on creating tech content because i felt that was money making part of tech and the what was the only i could quickly get recognized as a devloper and probably get a job. 
 
-I resumed working for my boss 8th january, 2024. I was working on both the backend and frontend programming simultaneously. It was interesting ride. We implemented interesting features and opened my eyes to writing custom codes. The plan was the ship the first version of the software by first week of February because as at that time we were both running out of cash.
+I resumed working for my boss 8th january, 2024. We were only two on the project so we were working on both the backend and frontend programming simultaneously. It was interesting ride because it gave me opportunity to implement interesting features. The plan was to ship the first version of the software by first week of February because as at that time boss was   running out of cash and needed to get our first subscribers to the service.
 
 Working on the project was more of a learning experience for me. I developed affection for the project because it was utilizes some deep part of node.js.  work was going on night and day and it got to a stage were we need to now start designing of pages on the frontend for users to interact with. All we working on frontend was just  sending of information to the backend  and getting information from the backend. 
 
