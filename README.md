@@ -29,7 +29,7 @@ After 2 days of staying at home doing nothing and there was no electricity to wo
 
 
 
-I jumped on it since i had no work doing, i just wanted write code. The amazing thing was that i didn't know time as gone as i was deeply engrossed in the project.
+I jumped on it since i had no work doing, i just wanted write code. The amazing thing was that i didn't know time has gone as i was deeply engrossed in the project.
 
 The time i was called upon to check my time is when i knew time had passed. I haven't finished with the project because the project was big enough it was a blog app. I promised i would continue tommorrow and I was about going home when i discoverd i can't as it was too late. I called One of my boss friend who was also doing his masters at University of Ibadan that could I pass the night at his place and i Obliged i went  there and discoverd i wasn't even around but told his roommate to come pick me. He picked me, I went to room and slept. At around 6AM, I woke and set out to continue my coding at Student Union Building. 
 
