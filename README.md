@@ -59,7 +59,7 @@ Friday the day of interview came. I met the CEO, a Nigerian based in Germany. I 
 
 I learnt a lot from my errors and i promised myself i would do better next time. Around August, I got a message from the guy who introduced me to his Nigeria CEO based in Germany of which i didn't pass the CEO's interview. The guy wanted me to build something amazing. I told him the amount he was offering was relatively low. He said it was just an internship. Since i was jobless and felt like diving into reverse engineering some of the apps that had the features he wanted, I decided to jump on the project. I got some hack about the project and i dived in.
 
-To fully concentrate in his project, I resigned at the school i teach around september because i'm really not good at multitasking and also the work was becoming too demanding.
+To fully concentrate on his project, I had to resign at the school i teaching around september because i'm really not good at multitasking. Moreover, his project was too demanding.
 
 Focusing on the project was one the mistakes i made as i later noticed the guy dosen't really knows what he wants. I started doing the plan of project backend and implememting faetures only for the guy to come and say he wants it another way. It became painfull but i persevered.
 
