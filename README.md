@@ -40,9 +40,9 @@ After, I had completed the project to a milestone after three consecutive days. 
 I just took a step and went to apply to one of the best schools with the facilities i wanted if they needed a teacher. As at that time, the term was about coming to an end and under normal circumstance they shouldn't need a teacher. In my application, i listed some subjects i could teach and to my greatest surprise, I was told to come next week for an exam. I wrote the exam and was called for an interview. I did well and by the end of February ending, I was told to resume work first week of march. I was very happy as this would give me the opportunity to use part of salary to buy a ram into my system.
 
 After a month, I got my salary and purchased the amount of ram i wanted. I had become comfortable with the school library as that was one of places i could write code without disturbance.
-fortunately for me, I was the English Language teacher of the school. I taught the student well. They liked me as i was the youngest teacher in the school. I treated them like my younger brothers and sisters.
+fortunately for me, I was the English Language teacher of the school. I taught the student well. They liked me as i was the youngest and approachable teacher in the school. I treated them like my younger brothers and sisters.
 
-Also, I had the opportunity of always charging my laptop anytime. I so loved coding to the extent that i would leave school by 7PM everyday even though school  activities ends by 3:30. I would code till around 7pm and go home only to sleep and eat. This became a normal habit for me.
+The School normally closes by 3:30pm but i noticed the principla was always leaving school late as he was faced with administrative work. I utilized that opportunity to code more and also charge my laptop. Most times, I left  the school around 7PM everyday even though school  activities ends by 3:30. I would code till around 7pm and go home only to eat and sleep. This became a normal habit for me.
 
 Around April I had to scrape important information on linkedIn of which i wrote an automation to be able to navigate pages and scrape the information. It was very interesting. I solved very complex problems and I just felt like i won't create website again and just stay on automation.
 
