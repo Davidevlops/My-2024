@@ -25,21 +25,17 @@ While i stopped, I was thinking of what next to do and i remebered that i needed
 
 After a week of i stopped working, I decided to carry my luggages and travel back to Ibadan as against my plan. I couldn't believe i can ever come back home to start living with my parents.
 
-After 2 days of staying at home doing nothing and there was no electricity power supply to work on my laptop i decided i wanted to go and use electricity at the University of Ibadan. On getting there, my former roommate who is doing his masters at the University of Ibadan told me help him in his software project assesment of which he needed to be able to graduate from his online training tech school. 
-
-
-
-I jumped on it since i had no work doing, i just wanted write code. The amazing thing was that i didn't know time has gone as i was deeply engrossed in the project.
+After 2 days of staying at home doing nothing and there was no electricity power supply to work on my laptop i decided i wanted to go and use electricity at the University of Ibadan. On getting there, my former roommate who is doing his masters at the University of Ibadan told me help him in his software project assesment of which he needed to be able to graduate from his online training tech school. I jumped on it since i had no software project that i was working on, i just wanted write code. The amazing thing was that, throughout that day i was busy on project till i discovered it was late in the night and i couldn't go home. 
 
 The time i was called upon to check my time is when i knew time had passed. I haven't finished with the project because the project was big enough it was a blog app. I promised i would continue tommorrow and I was about going home when i discoverd i can't as it was too late. I called One of my boss friend who was also doing his masters at University of Ibadan that could I pass the night at his place and i Obliged i went  there and discoverd i wasn't even around but told his roommate to come pick me. He picked me, I went to room and slept. At around 6AM, I woke and set out to continue my coding at Student Union Building. 
 
-I continued all through the day and that was how the former roomate told me to come to his room as he had an empty bed. I jumped on it as i really didn't want to go home. there was no light. There's really no point going home. I wrote a lot code that made feel like i must make it this year.
+I continued all through the day and that was how the former roomate told me to come to his room as he had an empty bed. I jumped on it as i really didn't want to go home. there was no electricity. There's really no point going home. I wrote a lot code that made feel like i must make it this year.
 
 
 I was writing this code on his system because his system had a longer battery life and it was a 16GB of ram which made work faster. i got so familiar withis sytem because it was fast and made it enjoy my programming experience. All of a sudden I was feeling the need to get an extra ram on my system to upgrade it's capacity.
 
 
-After, I had completed the project to a milestone after three consecutive days. I decided to go home and rest. I promised to be back in two days time. While i was going home i was feeling the need for extra job that would enable upgrade my ram from 4GB to about 16GB. I thought within myself that i needed to get a Teaching job as that is usually easy to see and also i wanted to get a teaching job where i could be able to charge and use my laptop anytime I have a free period.
+After, I had completed the project to a milestone after three consecutive days. I decided to go home and rest. I promised to be back in two days time. While i was going home i was feeling the need to quickly get a job that would enable upgrade my ram from 4GB to about 16GB. I thought within myself that i needed to get a teaching job as i knew teaching job are usually easy to see and also i wanted a school that constant power supply where i could charge my laptop and use it when i have a free period.
 
 I just take a step and went to apply to one of the best schools with the facilities i wanted if the needed a teacher. As at that time, the term was about coming to an end and under normal circumstance they shouldn't need a teacher. I put a list of subject i could teach and to my greatest surprise, I was told to come nect week for an exam. I wrote the exam and was called for an interview. I did well and by the end of February ending, I was told to resume work first week of march. I was very happy as this would give me the opportunity to use part of salary to buy a ram into my system. 
 
