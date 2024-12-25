@@ -25,7 +25,7 @@ While i stopped, I was thinking of what next to do and i remebered that i needed
 
 After a week of i stopped working, I decided to carry my luggages and travel back to Ibadan as against my plan. I couldn't believe i can ever come back home to start living with my parents.
 
-After 2 days of staying at home doing nothing and there was no electricity power supply to work on my laptop i decided i wanted to go and use electricity at the University of Ibadan. On getting there, my former roommate who is doing his masters at the University of Ibadan told me help him in his project assesment of which he needed to be able to graduate from his tech school. 
+After 2 days of staying at home doing nothing and there was no electricity power supply to work on my laptop i decided i wanted to go and use electricity at the University of Ibadan. On getting there, my former roommate who is doing his masters at the University of Ibadan told me help him in his software project assesment of which he needed to be able to graduate from his online training tech school. 
 
 
 
