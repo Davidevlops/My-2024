@@ -69,3 +69,5 @@ I worked all through the night and decided i needed to rest my head around 5:30 
 
 I took up a tutorial job just to have some cash saved before going for NYSC. I did this and it really helped as I was independent all through my camp.
 
+
+lemoemocol
