@@ -68,3 +68,6 @@ In the middle of the month of October, The national grid was down and i needed t
 I worked all through the night and decided i needed to rest my head around 5:30 am. I was charging my phone right in front of me. I was dozing not knowing everyone that we spent the night together had left. I was still dozing and someone came him and picked my phone. not quite long after I woke up and noticed my phone was missing. It quickly rush downstairs to get someone tp ring my phone. My phone was ringing but no one picked. I was ringing the phone consistently until a man picked the phone and told me he would return the phone that was far away. I knew it was a lie as this is usually what they alter. Immediately i was thinking on how to get my sim blecked and every important information. I contacted my Mum that I would be coming to her place of to get transport fare to MTN office to retrieve my line. I did that almost immediately and started using an abandoned smartphone that was  in the house. This is an ugly experience for as i was at the end of the month i was told to halt work and wasn't paid a full salary.
 
 I took up a tutorial job just to have some cash saved before going for NYSC. I did this and it really helped as I was independent all through my camp.
+
+
+lemoemocol
