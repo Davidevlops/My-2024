@@ -71,4 +71,5 @@ This ugly experience brought out an end to moving about in my quest for electric
 In November, I thought within myself to go for NYSC since i have been avoiding it and feeling like it's a waste of time. While i was waiting for NYSC registration, I decided to take a tutorial job introduced to me by my sister's friend around my area just to have some cash.
 I did this and it was really interesting and also, i enjoyed it as it gave me more opportunity to use my time for other things. It was a per hour kind of thing i thought it looked fair.
 
-While i was working at the tutorial
+While i was working at the tutorial, I was discussing with my sister's place on where i intend to serve and he told me to reconsider another place as serving in that part of the country isn't worth it.
+I went on google myself to make some research.
