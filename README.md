@@ -69,5 +69,4 @@ I worked all through the night and around 5:30 am I decided to take a break from
 This ugly experience brought out an end to moving about in my quest for electricity. The project took a different pace much slower and at the end of the month, I wasn't paid a full salary and was told to halt work due to lack of funds from investors.
 
 In November, I thought within myself to go for NYSC since i have been avoiding it and feeling like it's a waste of time. While i was waiting for NYSC registration, I decided to take a tutorial job introduced to me by my sister's friend around my area just to have some cash.
-I did this and it was really interesting.  took up a tutorial job just to have some cash saved before going for NYSC. I did this and it really helped as I was independent all through my camp.
-
+I did this and it was really interesting. 
