@@ -72,4 +72,7 @@ In November, I thought within myself to go for NYSC since i have been avoiding i
 I did this and it was really interesting and also, i enjoyed it as it gave me more opportunity to use my time for other things. It was a per hour kind of thing i thought it looked fair.
 
 While i was working at the tutorial, I was discussing with my sister's place on where i intend to serve and he told me to reconsider another place as serving in that part of the country isn't worth it.
-I went on google myself to make some research.
+I went on google myself to make some research, I asked people who have served there before on their opinions and all of them said the same thing on serving there.
+I thought about another and later felt like i needed to pick the state i naturally reside in as i don't want to start moving luggages all around.
+NYSC registration came, did everything in my capacity to see that i must register and follow the batch. Call up number came out and i gave a sure plug for direct posting to the state.
+everything worked out fine and i posted to the state i reside in normally.
