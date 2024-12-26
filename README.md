@@ -61,7 +61,7 @@ I learnt a lot from my errors and i promised myself i would do better next time.
 
 To fully concentrate on his project, I had to resign at the school i teaching around september because i'm really not good at multitasking. Moreover, his project was too demanding.
 
-Focusing on the project was one the mistakes i made as i later discovered the guy dosen't really knows what he wants. I was both the software architect of the project and at the time the tech lead. I had planned how many algorithms would be written and many times he would come suggesting another kind of solution that isn't robust. I would explain to him that i had properly thought about my solution and the trade offs rather than his solution but he wanted something fast. It became painful but i persevered.
+Focusing on the project was one the ugliest mistakes i made as i later discovered the guy dosen't really knows what he wants. I was both the software architect of the project and at the time the tech lead. I had planned how many algorithms would be written and many times he would come suggesting another kind of solution that isn't robust. I would explain to him that i had properly thought about my solution and the trade offs rather than his solution but he wanted something fast. It became painful but i persevered.
 
 
 In the middle of the month of October, The national grid was down and i needed to complete a part of the web app as i would be giving a report on it the friday of that week so i decided to go to University of Ibadan to use power I got to UI and i wasn't disspointed as they had light.
