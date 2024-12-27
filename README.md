@@ -1,82 +1,142 @@
 # My-2024: The Good, bad and Ugly
 
-Started the year with a lot of goals and aspirations in all aspects of life including spiritual, carrer and financial. All goals and it was a kick off since the 2024 race had started. 
+Started the year with a lot of goals and aspirations in all aspects of life, including spiritual, career, and financial. It was a promising kick-off since the 2024 race had begun.
 
-I had promised my boss  (more like a brother) the previous year that i would be working for him to build his software product to completion. on the 3rd day  of january i left Ibadan down to Ile Ife to join my boss in developing the software.
+I had promised my boss (more like a brother) the previous year that I would work for him to build his software product to completion. On the 3rd day of January, I left Ibadan and traveled to Ile Ife to join my boss in developing the software.
 
-My plan was complete the software project and dive straight to content creation with a focus on creating tech content because i felt that was money making part of tech and the what was the only i could quickly get recognized as a devloper and probably get a job. 
+My plan was to complete the software project and dive straight into content creation with a focus on tech content. I felt this was the most lucrative path in tech and a quick way to gain recognition as a developer and, hopefully, secure a job.
 
-I resumed working for my boss 8th january, 2024. We were only two on the project so we were working on both the backend and frontend programming simultaneously. It was interesting ride because it gave me opportunity to implement interesting features. The plan was to ship the first version of the software by first week of February because as at that time boss was   running out of cash and needed to get our first subscribers to the service.
+I resumed working for my boss on the 8th of January, 2024. We were just two people on the project, so we handled both backend and frontend programming simultaneously. It was an interesting ride because it gave me the opportunity to implement exciting features. The goal was to ship the first version of the software by the first week of February, as my boss was running out of funds and urgently needed to acquire our first subscribers.
 
-Working on the project was more of a learning experience for me. I developed affection for the project because it utilized some deep part of node.js.  work was going on night and day and it got to a stage were we need to now start designing frontend pages. All we had been working on, on frontend was just sending of all important requests to the backend and getting information from the backend. We needed to design beautiful frontend pages.
+Working on the project was a significant learning experience for me. I developed a deep affection for it because it allowed me to explore advanced features of Node.js. The work continued day and night, and eventually, we needed to start designing frontend pages. Up until then, our frontend work had primarily been about sending important requests to the backend and receiving responses. Designing beautiful frontend pages became a pressing need.
 
-My boss is normally not used to coding frontend design as he was more of a backend developer than a frontend developer. So he knew his way around getting already coded design to fit his need and. He would go ahead to customize it to fit his needs. 
+My boss, being more of a backend developer, was not very accustomed to coding frontend designs. He had a habit of sourcing pre-coded designs and customizing them to meet his needs. For our project, he found all the pages from a website with a similar implementation and handed them to me to integrate into a React application.
 
-He got all the pages from a website that implemented something related to what we were building. He handed me all the pages to fix them into react. I got the pages and i started fixing them into a react app. Along the line i ran into a problem and really didn't want to inform him. so i resolve to code the exact page myself instead of using the pages he got. That is where the problem started because immediately he handed me those pages. He left office for home and didn't return until a week after. 
+As I began integrating these designs, I encountered a problem but was reluctant to inform him. I decided to code the pages from scratch instead of fixing the pre-designed ones. That’s where the problems began. After handing me the pages, my boss left for home to focus on resolving a backend issue—a part of the code was consuming too much memory, and the remote server we planned to deploy on had only 2GB of RAM. He worked on this issue for a week before finding a solution and returning to the office.
 
-He went home because he needed to think clearly on one of the problem the backend app was experiencing. There was a part of the code that was consuming memory as the remote server we would be deploying on was just 
-2GB of ram. I'm in experienced in solving the problem so my boss decided to checking what he could do. He finally solve the problem and came back to office. On his arrival, he asked how far with the  fronetend designs i had been working on. I told him i had just finished a landing page. He felt like i was lazy since he had gotten the pages and all i was to do was to fix the page in react. I also was feeling like i have done a lot of work because  i had to code those designs instead of fixing the the already gotten designs. Those designs were complex to implement and i had to write all the code for it. 
+When he returned, he asked about the progress of the frontend designs. I told him I had completed only the landing page. He was upset, feeling I had been lazy since all I had to do was adapt the pre-coded designs. However, I felt I had done a lot of work because I had written the designs from scratch. These designs were complex, and implementing them manually required significant effort.
 
-My boss became angry and i had to explain that i ran into a problem while fixing the designs he gave me. Which i decided i was just going to write only the code instead of fixing the already scrapped code. We went through the problem together and discovered the goteen designs had some problems would not work and he decided we manually get it. This time it worked and all was fine. 
+After explaining that I had encountered issues with the provided designs and opted to code them myself, we reviewed the problem together. We discovered that the pre-coded designs indeed had issues and wouldn’t work as intended. My boss decided we should manually create the designs, and this time, everything worked out fine.
 
-On a fateful Wednesday morning the 31st of January 2024 i was rebelious to my boss instruction and he decided i shouldn't work with him on his project. I was very much sorry but i guess it was too late. It was a bad experience for me becuase I had so much affection for the project. I had to stop anyways.
+On the morning of Wednesday, the 31st of January, 2024, I was rebellious to my boss’s instructions. As a result, he decided I shouldn’t continue working on his project. I was deeply sorry, but it was too late. It was a bad experience for me because I had developed a strong affection for the project. Despite my regret, I had to stop working on it.
 
-While i stopped, I was thinking of what next to do and i remebered that i needed to write some technical articles to be published on DEV.to on Data structures and algorithms. I quickly dived into it. it was interesting. From there i noticed i developed passion for explaining concepts. i wrote on big O notation a topic under Data structures and algorithms was very explanatory.
+The Good:
 
-After a week of i stopped working, I decided to carry my luggages and travel back to Ibadan as against my plan. I couldn't believe i can ever come back home to start living with my parents.
+The project allowed me to learn and implement advanced features of Node.js.
 
-After 2 days of staying at home doing nothing and there was no electricity power supply to work on my laptop i decided i wanted to go and use electricity at the University of Ibadan. On getting there, my former roommate who is doing his masters at the University of Ibadan told me help him in his software project assesment of which he needed to be able to graduate from his online training tech school. I jumped on it since i had no software project that i was working on, i just wanted write code. The amazing thing was that, throughout that day i was busy on project till i discovered it was late in the night and i couldn't go home. 
+I gained valuable experience working on both frontend and backend simultaneously.
 
-The time i was called upon to check my time is when i knew time had passed. I haven't finished with the project because the project was big enough it was a blog app. I promised i would continue tommorrow and I was about going home when i discoverd i can't as it was too late. I called One of my boss friend who was also doing his masters at University of Ibadan that could I pass the night at his place and i Obliged i went  there and discoverd i wasn't even around but told his roommate to come pick me. He picked me, I went to room and slept. At around 6AM, I woke and set out to continue my coding at Student Union Building. 
+It was an opportunity to work closely with someone I respected and considered a mentor.
 
-I continued all through the day and that was how the former roomate told me to come to his room as he had an empty bed. I jumped on it as i really didn't want to go home. there was no electricity. There's really no point going home. I wrote a lot code that made feel like i must make it this year.
+The Bad:
+
+The tight deadlines and financial constraints created immense pressure.
+
+My decision to deviate from instructions without consulting my boss led to misunderstandings.
+
+The communication gap regarding the frontend designs caused unnecessary delays.
+
+The Ugly:
+
+Losing the opportunity to work on a project I was passionate about.
+
+The fallout with my boss strained a relationship I valued.
+
+The abrupt end to my involvement left me feeling disappointed and unfulfilled.
+
+Here’s a revised version of your text with grammatical corrections, improved clarity, and structural adjustments to enhance readability.  
+
+---
+
+While I stopped working, I started thinking about what to do next. I remembered that I needed to write some technical articles to be published on DEV.to, focusing on data structures and algorithms. I quickly dived into it, and it turned out to be a fascinating experience. From there, I realized I had developed a passion for explaining concepts. One of the topics I wrote about was Big O notation, a fundamental concept in data structures and algorithms, and my article was very detailed and explanatory.
+
+After a week of being out of work, I decided to pack my luggage and return to Ibadan, going against my original plan. I couldn’t believe I was back home living with my parents.  
+
+After two days of staying at home doing nothing, compounded by the lack of electricity to work on my laptop, I decided to head to the University of Ibadan to use their electricity. Upon arriving, my former roommate, who was pursuing his master’s degree there, asked me to help him with a software project assessment he needed to complete for graduation from his online tech school. I jumped at the opportunity since I didn’t have any other projects to work on—I just wanted to write code.  
+
+The amazing part was how engrossed I became in the project. It was a blog app, and I worked on it tirelessly throughout the day until I realized it was late at night, too late to go home. It was only when someone asked me to check the time that I realized how much time had passed.  
+
+Although I hadn’t finished the project, I promised to continue the next day. As I prepared to leave, I discovered I couldn’t go home because it was already too late. I called a friend of my boss, who was also pursuing his master’s degree at the University of Ibadan, and asked if I could stay the night at his place. He obliged, but since he wasn’t around, his roommate came to pick me up. I stayed in their room and slept.  
+
+At around 6 AM, I woke up and headed back to the Student Union Building to continue working on the project. I coded all day, and eventually, my former roommate offered me a spot in his room since he had an empty bed. I gladly accepted because, with no electricity at home, there was no point in going back.  
+
+During that period, I wrote a lot of code, which made me feel like I had to succeed this year. I used my roommate’s laptop, which had a longer battery life and 16GB of RAM, making work much faster and more enjoyable. I became so familiar with his system that I started to feel the need to upgrade my laptop’s RAM to enhance its capacity.  
+
+After completing a significant milestone in the project after three consecutive days of work, I decided to take a break and return home. I promised to come back in two days. On my way home, I couldn’t stop thinking about how to quickly get a job that would allow me to upgrade my laptop from 4GB to 16GB of RAM. I concluded that finding a teaching job would be a good option. Teaching jobs were usually easy to find, and I hoped to get one at a school with a constant power supply where I could charge my laptop and work during my free periods.  
 
 
-I was writing this code on his system because his system had a longer battery life and it was a 16GB of ram which made work faster. i got so familiar withis sytem because it was fast and made it enjoy my programming experience. All of a sudden I was feeling the need to get an extra ram on my system to upgrade it's capacity.
+I decided to take a bold step and apply to one of the best schools in the area, a school with the facilities I wanted, to see if they needed a teacher. At the time, the term was almost over, and under normal circumstances, they wouldn’t need a new teacher. In my application, I listed the subjects I could teach, and to my greatest surprise, I was invited to take an exam the following week.  
+
+I wrote the exam and was subsequently called for an interview. I performed well, and by the end of February, I was informed that I could resume work in the first week of March. I was thrilled because this job would allow me to save part of my salary to buy the RAM upgrade for my system that I had been eagerly planning.  
+
+After a month, I received my salary and purchased the additional RAM I needed. I became very comfortable with the school library—it was one of the few places where I could code without distractions. Fortunately, I was assigned as the English Language teacher. I taught the students diligently, and they liked me because I was the youngest and most approachable teacher at the school. I treated them like younger siblings, which helped build a strong rapport.  
+
+The school typically closed by 3:30 PM, but I noticed that the principal often stayed late to handle administrative work. I seized this opportunity to stay back, code, and charge my laptop. Most days, I left the school around 7 PM, long after official activities ended. I was working on a personal project that I believed could significantly improve my financial situation.  
+
+By April, I had completed the project with everything functioning well. However, I wanted the information I was retrieving to include personal details that I didn’t have access to. I decided to use an API to obtain this data, but I soon discovered that the API’s information wasn’t entirely reliable. This setback made me lose hope in the project temporarily.  
+
+During the school holidays in April, I focused on researching better APIs while still visiting the school to access electricity for charging my laptop. Eventually, I found an API that provided the personal details I needed. Unfortunately, when I attempted to integrate it into my application, it didn’t work as expected.  
+
+While trying to solve this issue, I received a call from a friend who asked if I could recommend someone to work on a frontend project. Normally, I didn’t specialize in frontend development, but I needed the extra income, so I took the job. My friend connected me to the project owner, an honorable gentleman, and we discussed the details. He sent me the Figma prototype, which included an animated page.  
+
+We agreed on a price and deadline, and I told him I would complete the project within two weeks. The truth was, I could finish it in four days, but I didn’t trust NEPA (the power supply) and wanted to give myself some breathing room. I worked on the project leisurely, and two days before the deadline, I hosted it for the client to review. Apart from a few minor corrections, everything was complete, and I delivered the final project on time.  
+
+With the payment from the project, I felt a strong conviction to use the money for something I hadn’t originally planned. I followed my instincts and used it in a way that brought me fulfillment. Meanwhile, I continued working at the school and coding on my laptop daily. It was an interesting and fulfilling routine.  
 
 
-After, I had completed the project to a milestone after three consecutive days. I decided to go home and rest. I promised to be back in two days time. While i was going home i was feeling the need to quickly get a job that would enable upgrade my ram from 4GB to about 16GB. I thought within myself that i needed to get a teaching job as i knew teaching job are usually easy to see and also i wanted a school that constant power supply where i could charge my laptop and use it when i have a free period.
-
-I just took a step and went to apply to one of the best schools with the facilities i wanted if they needed a teacher. As at that time, the term was about coming to an end and under normal circumstance they shouldn't need a teacher. In my application, i listed some subjects i could teach and to my greatest surprise, I was told to come next week for an exam. I wrote the exam and was called for an interview. I did well and by the end of February ending, I was told to resume work first week of march. I was very happy as this would give me the opportunity to use part of salary to buy a ram into my system.
-
-After a month, I got my salary and purchased the amount of ram i wanted. I had become comfortable with the school library as that was one of places i could write code without disturbance.
-fortunately for me, I was the English Language teacher of the school. I taught the student well. They liked me as i was the youngest and approachable teacher in the school. I treated them like my younger brothers and sisters.
-
-The School normally closes by 3:30pm but i noticed the principal was always leaving school late as he was faced with administrative work. I utilized that opportunity to code more and also charge my laptop. Most times, I left  the school around 7PM everyday even though school activities ends by 3:30. I was working on a personal project that i felt could be life changing to my current financial status.
-
-Around April I had completed the project with everything wworking fine. I got the information i was looking for but i wanted the information i got to get a personal information. The personal information i have no access to. I decided to use an API. In use the API, I discovered the information wasn't totally credible. At that i lost hope on the project and started researching which API could work better. I did that throughout the whole April as we were on holidays but i was still coming to school mainly to get access to power to charge my phone. I finally discovered API which worked well and was getting the the personal details of the information i had. I started the application of using the personal details but it didn't work the way i expected. 
-
-All these i was tring to solve while i got from a call from a friend of mine asking if i could recommend someone to work on a frontend project. Normally, I don't do frontend but i needed some bucks. He connected me to the honourable that owns the project. I chatted and we agreed price. I told him i would do it. He sent the protype on figma. It was an animated page I gave him a deadline of 2 weeks and I disappeared. The truth was that i could finish it in four days but i didn't trust NEPA so i just told him 2 weeks. I was chilling on the project and two days to the deadline of the project i hosted it for them to see it. It was all done just some few corrections and i completed project.
-
-I had a strong conviction that i needed to use this money for something else i didn't plan for and i used it. I just took the money and did what gave me fulfillment. I continued working in the school and working on my laptop everyday. it was interesting
-
-Fast forward to June, we had a mid term break in school and i had to go to UI to use electricity as no one would be available in school. i was all about meeting my financial goal for the first half of the year. Trying so hard to get a gig on any of freelance platform. I spent three consecutive days not having my bath or brushing my teeth working straight on my laptop. I was just looking and applying to opportunities.
-
-I left UI on Saturday evening just to come home to prepare for church the following day which also doubles as sallah.
-On the Sunday, I woke up late for church but tried everything possible to be in church and immediately service ended i left church to come home to sleep. I had slept and woken up. I came back to my system to check my Linkedin account. On checking my Linkedin, I saw an opportunity for a gig for the amount to complete my financial goal for the first half of the year. I applied through my mail and i got a response. We agreed on the next day for an interview. The day came and I did the interview. The guy who interviewed got back to me that i was chosen for the final interview to meet with the CEO on that Friday so that he could award tha gig to me. He also told me that I should prepare more on cloud computing emphasizing AWS. I was like i had used some services on AWS so it is something not really new.
-
-Friday the day of interview came. I met the CEO, a Nigerian based in Germany. I introduced myself and we were cool. He asked the first question of deploying to AWS on EC2 I was wowed because i had read something like that the previous day but i wasn't experienced with using it. I only used AWS lambda instead. He said no problem he asked me the next question, I misunderstood him, which made him to re-emphazise the question again. After the emphasis, I was able to answer the question correctly. He asked another again It took me a long time before i could answer the question of which he assumed i was checking the answer from somewhere. He said for this reason he wouldn't continue the interview with me. I was very pained because i missed a gig that would completed my financial goal for the first half of the year. This was really one of the bad experiences i had.
-
-I learnt a lot from my errors and i promised myself i would do better next time. Around August, I got a message from the guy who introduced me to his Nigeria CEO based in Germany of which i didn't pass the CEO's interview. The guy wanted me to build something amazing. I told him the amount he was offering was relatively low. He said it was just an internship. Since i was jobless and felt like diving into reverse engineering some of the apps that had the features he wanted, I decided to jump on the project. I got some hack about the project and i dived in.
-
-To fully concentrate on his project, I had to resign at the school i teaching around september because i'm really not good at multitasking. Moreover, his project was too demanding.
-
-Focusing on the project was one the ugliest mistakes i made as i later discovered the guy dosen't really knows what he wants. I was both the software architect of the project and at the time the tech lead. I had planned how many algorithms would be written and many times he would come suggesting another kind of solution that isn't robust. I would explain to him that i had properly thought about my solution and the trade offs rather than his solution but he wanted something fast. It became painful but i persevered.
 
 
-In the middle of the month of October, The national grid was down and i needed to complete a part of the web app as i would be giving a report on it the friday of that week so i decided to go to University of Ibadan to use power I got to UI and i wasn't disspointed as they had light.
-I worked all through the night and around 5:30 am I decided to take a break from working while i was still charging my phone right in front of me. I had become so comfortable that i decided to rest my head. while still resting my head i fell into a deep sleep only to discovver that my phone has been stolen when i woke up around 6:15. That was the really the ugliest 45 minutes of my entire life. I deployed all possible means of finding it's location as i new it was still within campus. It quickly rush downstairs to get someone to ring my phone. On dialing my phone, my phone was ringing but no one picked. I was dialing the phone consistently until a man picked the phone and promised me he would return the phone back to me but he was far away. At that point, I knew it was a lie as this is usually what most phone thieves alter. Immediately i was thinking of how to get my sim as that was the next thing that could implicate me if he used my phone for any dangeous activity. Immediately I contacted my Mum that I would be coming to her place of work very early to get transport fare to my network's office to retrieve my line. I did that almost immediately and started using an abandoned smartphone that was in the house. 
-This ugly experience brought out an end to moving about in my quest for electricity. The project took a different pace much slower and at the end of the month, I wasn't paid a full salary and was told to halt work due to lack of funds from investors.
+Fast forward to June, we had a mid-term break at school, and I decided to go to the University of Ibadan (UI) to access electricity since no one would be available at school. I was entirely focused on achieving my financial goal for the first half of the year. I worked tirelessly, spending three consecutive days without bathing or brushing my teeth, glued to my laptop. I was relentlessly applying for opportunities on various freelance platforms.  
 
-In November, I thought within myself to go for NYSC since i have been avoiding it and feeling like it's a waste of time. While i was waiting for NYSC registration, I decided to take a tutorial job introduced to me by my sister's friend around my area just to have some cash.
-I did this and it was really interesting and also, i enjoyed it as it gave me more opportunity to use my time for other things. It was a per hour kind of thing i thought it looked fair.
+On Saturday evening, I left UI and returned home to prepare for church the following day, which also happened to be Sallah.  
 
-While i was working at the tutorial, I was discussing with my sister's place on where i intend to serve and he told me to reconsider another place as serving in that part of the country isn't worth it.
-I went on google myself to make some research, I asked people who have served there before on their opinions and all of them said the same thing on serving there.
-I thought about another and later felt like i needed to pick the state i naturally reside in as i don't want to start moving luggages all around.
-NYSC registration came, did everything in my capacity to see that i must register and follow the batch. Call up number came out and i gave one of the surest plug in Nigeria for direct posting to the state.
-everything worked out fine and i posted to the state i reside in Normally. I have always dreaded orientation camp but my mum felt like i should have the experience.
-I got to camp met a lot people and enjoyed the experience overall. During my camp, i had the cause to write an examination that facilitated my posting. 
-Came back home from camp and everywhere was looking christmas. 
+On Sunday, I woke up late for church but did everything possible to make it in time. As soon as the service ended, I rushed back home to rest. After sleeping and waking up, I decided to check my LinkedIn account. To my surprise, I found a gig opportunity that could help me achieve my financial goal for the first half of the year. Excitedly, I applied through email and got a response.  
 
-Looking at 2024, I have come to be grateful for  the good, bad and ugly experiences. I remember that popular songs that says: "Lord I thank you for Sunshine ... Thank you for pain"
+The hiring team scheduled an interview for the next day. When the day arrived, I completed the interview, and the interviewer informed me that I had been shortlisted for the final round. I was scheduled to meet with the CEO on Friday. He also advised me to prepare thoroughly on cloud computing, particularly focusing on AWS. I felt somewhat confident, as I had previously worked with some AWS services, though I wasn’t deeply experienced.  
+
+On Friday, the day of the interview, I met the CEO, a Nigerian based in Germany. After introducing myself, the conversation started smoothly. His first question was about deploying an application to AWS EC2. I was taken aback, as I had briefly read about EC2 the previous day but had no practical experience using it. My experience was primarily with AWS Lambda. He reassured me it was okay and moved on to the next question.  
+
+Unfortunately, I misunderstood his second question, prompting him to rephrase it for clarity. Once clarified, I was able to answer correctly. However, the third question took me a long time to respond to, and the CEO wrongly assumed I was searching for the answer during the interview.   
+
+Due to this, he decided to discontinue the interview, stating that he could not proceed with awarding me the gig.  
+
+I was devastated. Missing out on that gig meant I couldn’t meet my financial goal for the first half of the year. It was a tough and disappointing experience, and one of the low points of my journey.  
+
+
+
+I learned a lot from my past mistakes and promised myself that I would do better next time. Around August, I received a message from the same person who had previously introduced me to the Nigerian CEO based in Germany, whose interview I didn’t pass. This time, he wanted me to build something amazing. However, the amount he was offering was relatively low. When I mentioned this, he clarified that it was just an internship.  
+
+Since I was unemployed and wanted to explore reverse engineering some of the apps that had features similar to what he wanted, I decided to take on the project. I found some interesting hacks related to the project and dove right in.  
+
+To fully concentrate on the project, I resigned from the teaching job around September, as I’m not great at multitasking. Moreover, the project was highly demanding.  
+
+Focusing solely on this project turned out to be one of the ugliest mistakes I made. I later realized that the client didn’t have a clear vision of what he wanted. I ended up serving as both the software architect and the tech lead for the project. I meticulously planned the algorithms and solutions, but he frequently suggested alternative approaches that weren’t robust. I would explain to him that I had carefully considered the trade-offs and benefits of my solutions, but he often prioritized speed over quality. It was frustrating, but I persevered.  
+
+In the middle of October, the national power grid went down, and I urgently needed to complete a section of the web app to present a progress report that Friday. To access electricity, I went to the University of Ibadan (UI). Fortunately, they had power.  
+
+I worked tirelessly through the night, and by around 5:30 AM, I decided to take a short break while my phone charged in front of me. Feeling comfortable, I rested my head for a moment. Unfortunately, I fell into a deep sleep.  
+
+When I woke up around 6:15 AM, I discovered that my phone had been stolen. Those 45 minutes felt like the ugliest and most distressing moments of my life. Panicking, I tried every possible way to locate the phone, knowing it was likely still on campus. I rushed downstairs to ask someone to call my phone. It rang, but no one answered. After persistent dialing, a man finally picked up and claimed he would return the phone but said he was far away. I immediately knew he was lying—this is a common excuse thieves use.  
+
+At that moment, I began to worry about my SIM card being misused for any fraudulent or dangerous activities. I quickly contacted my mom and informed her that I would come to her workplace early to get transport fare to visit my network provider’s office and retrieve my line. I completed the SIM replacement almost immediately and resorted to using an old, abandoned smartphone I found at home.  
+
+This ugly experience marked the end of my habit of moving around in search of electricity. The project’s progress slowed significantly after that incident. By the end of the month, I wasn’t paid a full salary and was informed that the work would be halted due to a lack of funding from investors.  
+
+
+
+In November, I decided it was time to go for NYSC, something I had been avoiding because I felt it was a waste of time. While waiting for NYSC registration to begin, I took up a tutorial job introduced to me by my sister's friend in my neighborhood. I thought it would be a good way to earn some cash.  
+
+The job turned out to be quite enjoyable, and I liked the flexibility of the per-hour arrangement, as it gave me the freedom to focus on other activities.  
+
+While working at the tutorial, I was discussing my intended NYSC posting with my sister's friend at the tutorial center. He advised me to reconsider my choice of location, saying that serving in that part of the country might not be worth it. Curious, I turned to Google for research and reached out to people who had served there. Their opinions were unanimous—they all discouraged serving in that area.   
+
+After careful thought, I decided to pick the state where I already lived. It felt like a more practical choice since I wouldn’t have to deal with the hassle of moving my belongings around.  
+
+When NYSC registration began, I did everything possible to ensure I registered with the batch. Once the call-up numbers were released, I contacted a reliable connection to secure direct posting to my preferred state. Everything worked out perfectly, and I was posted to the state where I reside.  
+
+I had always dreaded the NYSC orientation camp, but my mom encouraged me to embrace the experience. To my surprise, camp turned out to be an exciting chapter. I met a lot of people and genuinely enjoyed the activities. During my time there, I even had to take an examination that facilitated my final posting.  
+
+When camp ended, I returned home to a festive atmosphere as the Christmas season was already in full swing.  
+
+As I reflect on 2024, I’m filled with gratitude for the good, the bad, and the ugly experiences I’ve encountered. It reminds me of that popular song:  
+*"Lord, I thank You for sunshine... Thank You for pain."*  
