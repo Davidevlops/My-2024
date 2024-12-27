@@ -75,4 +75,8 @@ While i was working at the tutorial, I was discussing with my sister's place on 
 I went on google myself to make some research, I asked people who have served there before on their opinions and all of them said the same thing on serving there.
 I thought about another and later felt like i needed to pick the state i naturally reside in as i don't want to start moving luggages all around.
 NYSC registration came, did everything in my capacity to see that i must register and follow the batch. Call up number came out and i gave one of the surest plug in Nigeria for direct posting to the state.
-everything worked out fine and i posted to the state i reside in Normally. I have always dreaded camp but my family 
+everything worked out fine and i posted to the state i reside in Normally. I have always dreaded orientation camp but my mum felt like i should have the experience.
+I got to camp met a lot people and enjoyed the experience overall. During my camp, i had the cause to write an examination that facilitated my posting. 
+Came back home from camp and everywhere was looking christmas. 
+
+Looking at 2024, I have come to be grateful for  the good, bad and ugly experiences. I remember that popular songs that says: "Lord I thank you for Sunshine ... Thank you for pain"
