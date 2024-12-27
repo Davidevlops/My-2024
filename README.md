@@ -1,4 +1,4 @@
-# My-2024: The Good, bad and Ugly
+# My 2024: The Good, The Bad, and The Ugly
 
 Started the year with a lot of goals and aspirations in all aspects of life, including spiritual, career, and financial. It was a promising kick-off since the 2024 race had begun.
 
